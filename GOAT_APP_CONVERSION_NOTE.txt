@@ -1,0 +1,13 @@
+GOAT Holidays CRM Android conversion
+
+Source CRM: https://crm.goatholidays.in/
+Reference architecture: supplied Odyssey CRM Android project
+
+No CRM PHP/database files were modified for this conversion.
+The Android app loads the live CRM, so future CRM-side fixes and data changes reflect in the app without rebuilding unless Android wrapper behaviour itself changes.
+
+Android additions over the reference:
+- GOAT Holidays branding and app URL
+- GOAT launcher icons generated from the CRM organization logo
+- Location permission handling for attendance/GEO use cases
+- GOAT-specific generated itinerary download naming

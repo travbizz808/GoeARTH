@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_blue">#052D52</color>
+    <color name="brand_green">#1E5B32</color>
+    <color name="brand_sky">#2AA0D9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="crm_chrome">#052D52</color>
+</resources>
